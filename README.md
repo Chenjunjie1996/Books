@@ -1,20 +1,20 @@
-## Books
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fholyshell%2FBooks%2F&countColor=%23263759)
 
-### 说明
+## Abstract
 
 存放一些个人喜欢也比较特别的图书，以`PDF`格式为主，部分为`EPUB`；所有电子书均为中文版本，不定时更新。
 
-> - 因 GitHub 对代码文件有大小限制，部分`PDF`会做优化，清晰度会受到一定影响，不过基本不影响阅读；
-> 
-> - 较大的文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
-> 
-> - 若中文版本书籍出现删减情况，会尽量寻找未删减版本（大概率是繁体版）进行更新；
->
-> - 所有书籍均来自互联网分享，若涉及版权问题请联系我。
+- 因 GitHub 对代码文件有大小限制，部分`PDF`会做优化，清晰度会受到一定影响，不过基本不影响阅读；
+ 
+- 较大的文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
+ 
+- 若中文版本书籍出现删减情况，会尽量寻找未删减版本（大概率是中文繁体版）进行更新；
 
-### 书籍列表
+- 所有书籍均来自互联网分享，若涉及版权问题请联系我。
 
-中文名 | 英文名 | 作者 
+## Book list
+
+中文名  |  英文名  |  作者 
 
 [不确定世界的理性选择](https://github.com/holyshell/Books/blob/master/%5B%E4%B8%8D%E7%A1%AE%E5%AE%9A%E4%B8%96%E7%95%8C%E7%9A%84%E7%90%86%E6%80%A7%E9%80%89%E6%8B%A9%EF%BC%9A%E5%88%A4%E6%96%AD%E4%B8%8E%E5%86%B3%E7%AD%96%E5%BF%83%E7%90%86%E5%AD%A6%5D.%E9%9B%B7%E5%BE%B7%C2%B7%E6%B5%B7%E6%96%AF%E8%92%82.pdf) | Rational Choice in an Uncertain World | ` Reid Hastie `
 
@@ -66,6 +66,8 @@
 
 [跨越鸿沟](https://github.com/holyshell/Books/blob/master/%5B%E8%B7%A8%E8%B6%8A%E9%B8%BF%E6%B2%9F%5D.%E6%9D%B0%E5%BC%97%E9%87%8C%C2%B7%E6%91%A9%E5%B0%94.pdf)  | Crossing the chasm | ` Geoffrey Moore `
 
+[逻辑学导论](https://github.com/holyshell/Books/blob/master/%5B%E9%80%BB%E8%BE%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%AC%AC15%E7%89%88%EF%BC%89%5D.%E6%AC%A7%E6%96%87%C2%B7M%C2%B7%E6%9F%AF%E5%8C%B9.pdf) | Introduction to Logic | `Irving M. Copi`
+
 [金枝](https://github.com/holyshell/Books/blob/master/%E3%80%8A%E9%87%91%E6%9E%9D%E3%80%8B(%E5%85%A8%E4%B8%A4%E5%86%8C)%EF%BC%9A%E8%B7%A8%E8%B6%8A%E4%B8%87%E5%B9%B4%E7%9A%84%E4%BA%BA%E6%80%A7%E8%BF%9B%E5%8C%96%E6%95%85%E4%BA%8B.epub) | The Golden Bough | `James George Frazer`
 
 [米德尔马契](https://github.com/holyshell/Books/blob/master/%E7%B1%B3%E5%BE%B7%E5%B0%94%E9%A9%AC%E5%A5%91%20%5B%E8%8B%B1%5D%20%E4%B9%94%E6%B2%BB%C2%B7%E8%89%BE%E7%95%A5%E7%89%B9.epub) | Middlemarch | `George Eliot`
@@ -74,13 +76,28 @@
 
 [如何进行跨学科研究](https://github.com/holyshell/Books/releases/tag/20231113) |  Interdisciplinary research process and theory | `Allen F. Repko`
 
-[经济人的末日](https://github.com/holyshell/Books/releases/tag/202311131) ｜ The End of Economic Man:
+[经济人的末日](https://github.com/holyshell/Books/releases/tag/202311131) | The End of Economic Man:
 The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
-[艺术的故事](https://github.com/holyshell/Books/releases/tag/20231114) ｜ The Story of Art ｜ `Sir. Ernst Gombrich`
+[艺术的故事](https://github.com/holyshell/Books/releases/tag/20231114) | The Story of Art ｜ `Sir. Ernst Gombrich`
 
-### Contact
-WeChat:`studytoknow`
+[研究的方法](https://github.com/holyshell/Books/releases/tag/20240302) | Where Research Begins | `Thomas S. Mullaney`
+
+[游戏设计艺术](https://github.com/holyshell/Books/releases/tag/20241016) | The Art of Game Design | `Jesse Schell`
+
+[科学究竟是什么](https://github.com/holyshell/Books/releases/tag/20241118) | What Is This Thing Called Science | `A.F.Chalmers`
+
+## Contact
+<details>
+<summary>WeChat</summary>
+ 
+`studytoknow`
+
+</details>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=holyshell/Books&type=Date)](https://star-history.com/#holyshell/Books&Date)
 
 
 

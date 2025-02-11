@@ -2,13 +2,13 @@
 
 ## Abstract
 
-存放一些个人喜欢也比较特别的图书，以`PDF`格式为主，部分为`EPUB`；所有电子书均为中文版本，不定时更新。
+存放一些个人喜欢也比较特别的图书，不定时更新：
 
-- 因 GitHub 对代码文件有大小限制，部分`PDF`会做优化，清晰度会受到一定影响，不过基本不影响阅读；
+- 所有图书以`PDF`格式为主，部分为`EPUB`；所有电子书均为中文版本；
+
+- 较大的书籍文件会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
  
-- 较大的文件（一般超过50MB）会通过[Releases](https://github.com/holyshell/Books/releases)的形式发布；
- 
-- 若中文版本书籍出现删减情况，会尽量寻找未删减版本（大概率是中文繁体版）进行更新；
+- 若书籍出现删减情况，会尽量寻找未删减版本（大概率是繁体版）进行更新；
 
 - 所有书籍均来自互联网分享，若涉及版权问题请联系我。
 
@@ -87,13 +87,15 @@ The Origins of Totalitarianism ｜ `Peter F. Drucker`
 
 [科学究竟是什么](https://github.com/holyshell/Books/releases/tag/20241118) | What Is This Thing Called Science | `A.F.Chalmers`
 
-## Contact
-<details>
-<summary>WeChat</summary>
- 
-`studytoknow`
+[哲学的历程](https://github.com/holyshell/Books/releases/tag/20241227) | A Historical Introduction to Philosophy | `William F.Lawhead`
 
-</details>
+## 交流群
+> 尝试性的在微信建立一个读书交流群，不搞打卡，不搞情绪，如果你也喜欢读书或聊聊与书有关的事儿，欢迎加入:)
+
+<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/chat.JPG">
+
+## Best wishs
+<img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
 ## Star History
 
